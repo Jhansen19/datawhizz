@@ -1,0 +1,481 @@
+﻿[Address_Type],,,
+[Address_Type],,F,Firm or Company
+[Address_Type],,H,Highrise or Business Complex
+[Address_Type],,P,P.O. Box
+[Address_Type],,R,Rural Route
+[Address_Type],,S,Street or Residential
+,,,
+,,,
+[Census_Block_Group],,,
+[Census_Block_Group],,,Unknown
+[Census_Block_Group],,0,0-999
+[Census_Block_Group],,1,1000-1999
+[Census_Block_Group],,2,2000-2999
+[Census_Block_Group],,3,3000-3999
+[Census_Block_Group],,4,4000-4999
+[Census_Block_Group],,5,5000-5999
+[Census_Block_Group],,6,6000-6999
+[Census_Block_Group],,7,7000-7999
+[Census_Block_Group],,8,8000-8999
+[Census_Block_Group],,9,9000-9999
+,,,
+,,,
+[Credit_Lines],,,
+[Credit_Lines],,,Unknown
+[Credit_Lines],,1,1 Line of Credit
+[Credit_Lines],,2,2 Lines of Credit
+[Credit_Lines],,3,3 Lines of Credit
+[Credit_Lines],,4,4 Lines of Credit
+[Credit_Lines],,5,5 Lines of Credit
+[Credit_Lines],,6,6 Lines of Credit
+[Credit_Lines],,7,7 Lines of Credit
+[Credit_Lines],,8,8 Lines of Credit
+[Credit_Lines],,9,9 Lines of Credit
+,,,
+[Credit_Rating],,,
+[Credit_Rating],,,Unknown
+[Credit_Rating],,A,800+
+[Credit_Rating],,B,750 - 799
+[Credit_Rating],,C,700 - 749
+[Credit_Rating],,D,650 - 699
+[Credit_Rating],,E,600 - 649
+[Credit_Rating],,F,550 - 599
+[Credit_Rating],,G,500-549
+[Credit_Rating],,H,under 499
+,,,
+,,,
+[Education_Level],,,
+[Education_Level],,,Unknown
+[Education_Level],,A,Completed High School
+[Education_Level],,B,Completed College
+[Education_Level],,C,Completed Graduate School
+[Education_Level],,D,Attended Vocational/Technical
+,,,
+,,,
+[Ethnic_Assim],,,
+[Ethnic_Assim],,,Unknown
+[Ethnic_Assim],,A,Assimilated - English Speaking
+[Ethnic_Assim],,B,Bilingual - English Primary
+[Ethnic_Assim],,C,Bilingual - Native Language Primary
+[Ethnic_Assim],,D,Unassimilated - Native Language Only
+[Ethnic_Conf],,,
+[Ethnic_Conf],,,Unknown
+[Ethnic_Conf],,A,95%+ African American
+[Ethnic_Conf],,B,85%+ African American
+[Ethnic_Conf],,C,75%+ African American
+[Ethnic_Conf],,D,65%+ African American
+[Ethnic_Grp],,,
+[Ethnic_Grp],,,Unknown
+[Ethnic_Grp],,A,A Southeast Asian
+[Ethnic_Grp],,C,C Central & Southwest Asian
+[Ethnic_Grp],,E,E Eastern European
+[Ethnic_Grp],,F,F All African American Ethnic Groups
+[Ethnic_Grp],,I,I Middle Eastern
+[Ethnic_Grp],,J,J Jewish
+[Ethnic_Grp],,M,M Mediterranean
+[Ethnic_Grp],,N,N Native American
+[Ethnic_Grp],,O,O Far Eastern
+[Ethnic_Grp],,P,P Polynesian
+[Ethnic_Grp],,S,S Scandinavian
+[Ethnic_Grp],,T,T Other
+[Ethnic_Grp],,W,W Western European
+[Ethnic_Grp],,Y,Y Hispanic
+,,,
+,,,
+[Ethnic_Hisp_Cntry],,,
+[Ethnic_Hisp_Cntry],,,Unknown
+[Ethnic_Hisp_Cntry],,HA,Argentina
+[Ethnic_Hisp_Cntry],,HB,Bolivia
+[Ethnic_Hisp_Cntry],,HC,Cuba
+[Ethnic_Hisp_Cntry],,HD,Dominican Republic
+[Ethnic_Hisp_Cntry],,HE,El Salvador
+[Ethnic_Hisp_Cntry],,HG,Guatemala
+[Ethnic_Hisp_Cntry],,HH,Honduras
+[Ethnic_Hisp_Cntry],,HJ,Colombia
+[Ethnic_Hisp_Cntry],,HK,Panama
+[Ethnic_Hisp_Cntry],,HL,Ecuador
+[Ethnic_Hisp_Cntry],,HM,Mexico
+[Ethnic_Hisp_Cntry],,HN,Nicaragua
+[Ethnic_Hisp_Cntry],,HP,Puerto Rico
+[Ethnic_Hisp_Cntry],,HQ,Chile
+[Ethnic_Hisp_Cntry],,HR,Costa Rica
+[Ethnic_Hisp_Cntry],,HS,Spain
+[Ethnic_Hisp_Cntry],,HU,Uruguay
+[Ethnic_Hisp_Cntry],,HV,Venezuela
+[Ethnic_Hisp_Cntry],,HX,Peru
+[Ethnic_Hisp_Cntry],,HY,Paraguay
+[Ethnic_Hisp_Cntry],,HZ,Brazil
+,,,
+,,,
+[Ethnic_Lang],,,
+[Ethnic_Lang],,,Unknown
+[Ethnic_Lang],,A1,A1 Afrikaans
+[Ethnic_Lang],,A2,A2 Albanian
+[Ethnic_Lang],,A3,A3 Amharic
+[Ethnic_Lang],,A4,A4 Arabic
+[Ethnic_Lang],,A5,A5 Armenian
+[Ethnic_Lang],,A6,A6 Ashanti
+[Ethnic_Lang],,A7,A7 Azeri
+[Ethnic_Lang],,B1,B1 Bantu
+[Ethnic_Lang],,B2,B2 Basque
+[Ethnic_Lang],,B3,B3 Bengali
+[Ethnic_Lang],,B4,B4 Bulgarian
+[Ethnic_Lang],,B5,B5 Burmese
+[Ethnic_Lang],,C1,"C1 Chinese (Mandarin, Cantonese and other dialects)"
+[Ethnic_Lang],,C3,C3 Czech
+[Ethnic_Lang],,D1,D1 Danish
+[Ethnic_Lang],,D2,D2 Dutch
+[Ethnic_Lang],,D3,D3 Dzongha
+[Ethnic_Lang],,E1,E1 English
+[Ethnic_Lang],,E2,E2 Estonian
+[Ethnic_Lang],,F1,F1 Farsi
+[Ethnic_Lang],,F2,F2 Finnish
+[Ethnic_Lang],,F3,F3 French
+[Ethnic_Lang],,G1,G1 Georgian
+[Ethnic_Lang],,G2,G2 German
+[Ethnic_Lang],,G3,G3 Ga
+[Ethnic_Lang],,G4,G4 Greek
+[Ethnic_Lang],,H2,H2 Hebrew
+[Ethnic_Lang],,H3,H3 Hindi
+[Ethnic_Lang],,H4,H4 Hungarian
+[Ethnic_Lang],,I1,I1 Icelandic
+[Ethnic_Lang],,I2,I2 Indonesian
+[Ethnic_Lang],,I3,I3 Italian
+[Ethnic_Lang],,J1,J1 Japanese
+[Ethnic_Lang],,K1,K1 Kazakh
+[Ethnic_Lang],,K2,K2 Khmer
+[Ethnic_Lang],,K3,K3 Kirghiz
+[Ethnic_Lang],,K4,K4 Korean
+[Ethnic_Lang],,L1,L1 Laotian (Include Hmong)
+[Ethnic_Lang],,L2,L2 Latvian
+[Ethnic_Lang],,L3,L3 Lithuanian
+[Ethnic_Lang],,M1,M1 Macedonian
+[Ethnic_Lang],,M2,M2 Malagasy
+[Ethnic_Lang],,M3,M3 Malay
+[Ethnic_Lang],,M4,M4 Moldavian
+[Ethnic_Lang],,M5,M5 Mongolian
+[Ethnic_Lang],,N1,N1 Nepali
+[Ethnic_Lang],,N2,N2 Norwegian
+[Ethnic_Lang],,O1,O1 Oromo
+[Ethnic_Lang],,P1,P1 Pashto
+[Ethnic_Lang],,P2,P2 Polish
+[Ethnic_Lang],,P3,P3 Portuguese
+[Ethnic_Lang],,R1,R1 Romanian
+[Ethnic_Lang],,R2,R2 Russian
+[Ethnic_Lang],,S1,S1 Samoan
+[Ethnic_Lang],,S2,S2 Serbo-Croatian
+[Ethnic_Lang],,S3,S3 Sinhalese
+[Ethnic_Lang],,S4,S4 Slovakian
+[Ethnic_Lang],,S5,S5 Slovenian
+[Ethnic_Lang],,S6,S6 Somali
+[Ethnic_Lang],,S7,S7 Sotho
+[Ethnic_Lang],,S8,S8 Spanish
+[Ethnic_Lang],,S9,S9 Swahili
+[Ethnic_Lang],,SA,SA Swazi
+[Ethnic_Lang],,SB,SB Swedish
+[Ethnic_Lang],,T1,T1 Tagalog
+[Ethnic_Lang],,T2,T2 Tajik
+[Ethnic_Lang],,T3,T3 Thai
+[Ethnic_Lang],,T4,T4 Tibetan
+[Ethnic_Lang],,T5,T5 Tongan
+[Ethnic_Lang],,T6,T6 Turkish
+[Ethnic_Lang],,T7,T7 Turkmeni
+[Ethnic_Lang],,T8,T8 Tswana
+[Ethnic_Lang],,U1,U1 Urdu
+[Ethnic_Lang],,U2,U1 Uzbecki
+[Ethnic_Lang],,UX,UX Uzbeki
+[Ethnic_Lang],,V1,V1 Vietnamese
+[Ethnic_Lang],,X1,X1 Xhosa
+[Ethnic_Lang],,Z1,Z1 Zulu
+,,,
+,,,
+[Ethnic_Relig],,,
+[Ethnic_Relig],,,Unknown
+[Ethnic_Relig],,B,B Buddhist
+[Ethnic_Relig],,C,C Catholic
+[Ethnic_Relig],,G,G Greek Orthodox
+[Ethnic_Relig],,H,H Hindu
+[Ethnic_Relig],,I,I Islamic
+[Ethnic_Relig],,J,J Jewish
+[Ethnic_Relig],,K,K Sikh
+[Ethnic_Relig],,L,L Lutheran
+[Ethnic_Relig],,M,M Mormon
+[Ethnic_Relig],,O,O Eastern Orthodox
+[Ethnic_Relig],,P,P Protestant
+[Ethnic_Relig],,S,S Shinto
+[Ethnic_Relig],,X,X Not Known  or  Unmatched
+,,,
+,,,
+[Fips_State_Code],,,
+[Fips_State_Code],,01,01 Alabama
+[Fips_State_Code],,02,02 Alaska
+[Fips_State_Code],,04,04 Arizona
+[Fips_State_Code],,05,05 Arkansas
+[Fips_State_Code],,06,06 California
+[Fips_State_Code],,08,08 Colorado
+[Fips_State_Code],,09,09 Connecticut
+[Fips_State_Code],,10,10 Delaware
+[Fips_State_Code],,11,11 District of Columbia
+[Fips_State_Code],,12,12 Florida
+[Fips_State_Code],,13,13 Georgia
+[Fips_State_Code],,15,15 Hawaii
+[Fips_State_Code],,16,16 Idaho
+[Fips_State_Code],,17,17 Illinois
+[Fips_State_Code],,18,18 Indiana
+[Fips_State_Code],,19,19 Iowa
+[Fips_State_Code],,20,20 Kansas
+[Fips_State_Code],,21,21 Kentucky
+[Fips_State_Code],,22,22 Louisiana
+[Fips_State_Code],,23,23 Maine
+[Fips_State_Code],,24,24 Maryland
+[Fips_State_Code],,25,25 Massachusetts
+[Fips_State_Code],,26,26 Michigan
+[Fips_State_Code],,27,27 Minnesota
+[Fips_State_Code],,28,28 Mississippi
+[Fips_State_Code],,29,29 Missouri
+[Fips_State_Code],,30,30 Montana
+[Fips_State_Code],,31,31 Nebraska
+[Fips_State_Code],,32,32 Nevada
+[Fips_State_Code],,33,33 New Hampshire
+[Fips_State_Code],,34,34 New Jersey
+[Fips_State_Code],,35,35 New Mexico
+[Fips_State_Code],,36,36 New York
+[Fips_State_Code],,37,37 North Carolina
+[Fips_State_Code],,38,38 North Dakota
+[Fips_State_Code],,39,39 Ohio
+[Fips_State_Code],,40,40 Oklahoma
+[Fips_State_Code],,41,41 Oregon
+[Fips_State_Code],,42,42 Pennsylvania
+[Fips_State_Code],,44,44 Rhode Island
+[Fips_State_Code],,45,45 South Carolina
+[Fips_State_Code],,46,46 South Dakota
+[Fips_State_Code],,47,47 Tennessee
+[Fips_State_Code],,48,48 Texas
+[Fips_State_Code],,49,49 Utah
+[Fips_State_Code],,50,50 Vermont
+[Fips_State_Code],,51,51 Virginia
+[Fips_State_Code],,53,53 Washington
+[Fips_State_Code],,54,54 West Virginia
+[Fips_State_Code],,55,55 Wisconsin
+[Fips_State_Code],,56,56 Wyoming
+[Fips_State_Code],,60,60 American Samoa
+[Fips_State_Code],,64, 
+[Fips_State_Code],,66,66 Guam
+[Fips_State_Code],,68, 
+[Fips_State_Code],,69,69 Commonwealth of the Northern Mariana Islands
+[Fips_State_Code],,70,70 Palau
+[Fips_State_Code],,72,72 Puerto Rico
+[Fips_State_Code],,78,78 U.S. Virgin Islands
+,,,
+,,,
+,,,
+[Hh_Income],,,
+[Hh_Income],,,Unknown
+[Hh_Income],,A,"Under $10,000"
+[Hh_Income],,B,"$10,000 - $14,999"
+[Hh_Income],,C,"$15,000 - $19,999"
+[Hh_Income],,D,"$20,000 - $24,999"
+[Hh_Income],,E,"$25,000 - $29,999"
+[Hh_Income],,F,"$30,000 - $34,999"
+[Hh_Income],,G,"$35,000 - $39,999"
+[Hh_Income],,H,"$40,000 - $44,999"
+[Hh_Income],,I,"$45,000 - $49,999"
+[Hh_Income],,J,"$50,000 - $54,999"
+[Hh_Income],,K,"$55,000 - $59,999"
+[Hh_Income],,L,"$60,000 - $64,999"
+[Hh_Income],,M,"$65,000 - $74,999"
+[Hh_Income],,N,"$75,000 - $99,999"
+[Hh_Income],,O,"$100,000 - $149,999"
+[Hh_Income],,P,"$150,000 - $174,999"
+[Hh_Income],,Q,"$175,000 - $199,999"
+[Hh_Income],,R,"$200,000 - $249,999"
+[Hh_Income],,S,"$250,000 +"
+,,,
+,,,
+[Hh_Marital_Status],,,
+[Hh_Marital_Status],,,Unknown
+[Hh_Marital_Status],,A,Inferred Married
+[Hh_Marital_Status],,B,Inferred Single
+[Hh_Marital_Status],,M,Married
+[Hh_Marital_Status],,S,Single
+,,,
+,,,
+[Homeowner],,,
+[Homeowner],,,Unknown
+[Homeowner],,9,Probable homeowner 90-100
+[Homeowner],,H,Homeowner
+[Homeowner],,R,Renter
+,,,
+,,,
+[Mr_Loan_Typ],,,
+[Mr_Loan_Typ],,,Unknown
+[Mr_Loan_Typ],,5,Community Development Authority
+[Mr_Loan_Typ],,C,Conventional
+[Mr_Loan_Typ],,F,FHA
+[Mr_Loan_Typ],,P,Private Party Lender
+[Mr_Loan_Typ],,S,Small Business Administration
+[Mr_Loan_Typ],,W,Wrap-Around Mortgage
+,,,
+,,,
+[Mr2_Loan_Typ],,,
+[Mr2_Loan_Typ],,,Unknown
+[Mr2_Loan_Typ],,5,Community Development Authority
+[Mr2_Loan_Typ],,C,Conventional
+[Mr2_Loan_Typ],,F,FHA
+[Mr2_Loan_Typ],,P,Private Party Lender
+[Mr2_Loan_Typ],,S,Small Business Administration
+[Mr2_Loan_Typ],,V, 
+[Mr2_Loan_Typ],,W,Wrap-Around Mortgage
+,,,
+,,,
+[Mr2_Rate_Typ],,,
+[Mr2_Rate_Typ],,,Unknown
+[Mr2_Rate_Typ],,A,Adjustable
+[Mr2_Rate_Typ],,F,Fixed
+,,,
+,,,
+[Net_Worth],,,
+[Net_Worth],,,Unknown
+[Net_Worth],,A,Less than $1
+[Net_Worth],,B,"$1 - $4,999"
+[Net_Worth],,C,"$5,000 - $9,999"
+[Net_Worth],,D,"$10,000 - $24,999"
+[Net_Worth],,E,"$25,000 - $49,999"
+[Net_Worth],,F,"$50,000 - $99,999"
+[Net_Worth],,G,"$100,000 - $249,999"
+[Net_Worth],,H,"$250,000 - $499,999"
+[Net_Worth],,I,"Greater than $499,999"
+,,,
+,,,
+[Occ_Busn_Ownr],,,
+[Occ_Busn_Ownr],,,Unknown
+[Occ_Busn_Ownr],,1,Accountant
+[Occ_Busn_Ownr],,2,Builder
+[Occ_Busn_Ownr],,3,Contractor
+[Occ_Busn_Ownr],,4,Dealer/Retailer/Storekeeper
+[Occ_Busn_Ownr],,5,Distributor/Wholesaler
+[Occ_Busn_Ownr],,6,Funeral Director
+[Occ_Busn_Ownr],,7,Maker/Manufacturer
+[Occ_Busn_Ownr],,8,Owner
+[Occ_Busn_Ownr],,9,Partner
+[Occ_Busn_Ownr],,A,Self-Employed
+,,,
+,,,
+[Party_Affiliation],,,
+[Party_Affiliation],,,Unknown
+[Party_Affiliation],,A,American Independent
+[Party_Affiliation],,C,Constitutional
+[Party_Affiliation],,D,Democrat
+[Party_Affiliation],,E,Reform
+[Party_Affiliation],,G,Green
+[Party_Affiliation],,I,Independent
+[Party_Affiliation],,L,Liberal
+[Party_Affiliation],,N,The Alliance Party
+[Party_Affiliation],,O,Other
+[Party_Affiliation],,P,Peace and Freedom
+[Party_Affiliation],,R,Republican
+[Party_Affiliation],,S,Socialist
+[Party_Affiliation],,U,Undeclared
+,,,
+,,,
+,,,
+[Prop_Ac],,,
+[Prop_Ac],,,Unknown
+[Prop_Ac],,A,AC.CENTRAL
+[Prop_Ac],,B,AC.CENTRAL & UNIT
+[Prop_Ac],,C,AC.DUAL UNIT
+[Prop_Ac],,D,AC.EVAPORATIVE
+[Prop_Ac],,E,AC.HEAT PUMP
+[Prop_Ac],,F,AC.REFRIGERATION
+[Prop_Ac],,G,AC.PACKAGE
+[Prop_Ac],,H,AC.SEPARATE SYSTEM
+[Prop_Ac],,I,AC.SPLIT SYSTEM
+[Prop_Ac],,J,AC.WALL UNIT
+[Prop_Ac],,K,AC.WINDOW UNIT
+[Prop_Ac],,L,AC.WALL/WINDOW UNIT
+,,,
+,,,
+[Prop_Fuel],,,
+[Prop_Fuel],,,Unknown
+[Prop_Fuel],,E,ELECTRIC
+[Prop_Fuel],,G,GAS
+[Prop_Fuel],,O,OIL
+[Prop_Fuel],,P,GAS PUBLIC/PIPED
+,,,
+,,,
+[Prop_Sewer],,,
+[Prop_Sewer],,,Unknown
+[Prop_Sewer],,1,SEWER - COMMERCIAL
+[Prop_Sewer],,2,SEWER - PRIVATE
+[Prop_Sewer],,3,SEWER - PUBLIC
+[Prop_Sewer],,4,SEWER - SEPTIC
+,,,
+,,,
+[Prop_Water],,,
+[Prop_Water],,,Unknown
+[Prop_Water],,1,WATER - COMMERCIAL
+[Prop_Water],,2,WATER - PRIVATE
+[Prop_Water],,3,WATER - PUBLIC
+[Prop_Water],,4,WATER - WELL
+,,,
+,,,
+[State],,,
+[State],,AK,Alaska
+[State],,AL,Alabama
+[State],,AR,Arkansas
+[State],,AS,American Samoa
+[State],,AZ,Arizona
+[State],,CA,California
+[State],,CO,Colorado
+[State],,CT,Connecticut
+[State],,DC,District of Columbia
+[State],,DE,Delaware
+[State],,FL,Florida
+[State],,FM,Micronesia
+[State],,GA,Georgia
+[State],,GU,Guam
+[State],,HI,Hawaii
+[State],,IA,Iowa
+[State],,ID,Idaho
+[State],,IL,Illinois
+[State],,IN,Indiana
+[State],,KS,Kansas
+[State],,KY,Kentucky
+[State],,LA,Louisiana
+[State],,MA,Massachusetts
+[State],,MD,Maryland
+[State],,ME,Maine
+[State],,MH,Marshall Islands
+[State],,MI,Michigan
+[State],,MN,Minnesota
+[State],,MO,Missouri
+[State],,MP,Northern Mariana Islands
+[State],,MS,Mississippi
+[State],,MT,Montana
+[State],,NC,North Carolina
+[State],,ND,North Dakota
+[State],,NE,Nebraska
+[State],,NH,New Hampshire
+[State],,NJ,New Jersey
+[State],,NM,New Mexico
+[State],,NV,Nevada
+[State],,NY,New York
+[State],,OH,Ohio
+[State],,OK,Oklahoma
+[State],,OR,Oregon
+[State],,PA,Pennsylvania
+[State],,PR,Puerto Rico
+[State],,PW,Palau
+[State],,RI,Rhode Island
+[State],,SC,South Carolina
+[State],,SD,South Dakota
+[State],,TN,Tennessee
+[State],,TX,Texas
+[State],,UT,Utah
+[State],,VA,Virginia
+[State],,VI,Virgin Islands
+[State],,VT,Vermont
+[State],,WA,Washington
+[State],,WI,Wisconsin
+[State],,WV,West Virginia
+[State],,WY,Wyoming
